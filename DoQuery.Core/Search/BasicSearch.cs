@@ -10,6 +10,7 @@ namespace DoQuery.Core.Search
 {
     public class BasicSearch : ISearcher
     {
+        //Term and Multi-Term Search
 
         //TODO:  Calculate scores for each document
 
