@@ -1,6 +1,6 @@
 ﻿
 # DoQuery 🔍  
-**DoQ for Documents** - A lightweight, educational search engine inspired by Elasticsearch and Lucene  
+**DoQuery for Documents** - A lightweight, educational search engine inspired by Elasticsearch and Lucene  
 
 [![.NET](https://img.shields.io/badge/.NET-6.0-blue)](https://dotnet.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
@@ -80,16 +80,12 @@ DoQuery/
 3. Report bugs or feature requests via **GitHub Issues**.  
 
 ---
-
-## License 📄  
-MIT License - See [LICENSE](LICENSE).  
-
 ---
 
-### DoQuery Development Backlog
+## DoQuery Development Backlog
 
 
-#### **Epic 1: Core Search Engine Functionality**  
+### **Epic 1: Core Search Engine Functionality**  
 **Priority**: Critical  
 **User Stories**:  
 1. **Implement Inverted Index**  
@@ -116,7 +112,7 @@ MIT License - See [LICENSE](LICENSE).
 
 ---
 
-#### **Epic 2: Command-Line Interface (CLI)**  
+### **Epic 2: Command-Line Interface (CLI)**  
 **Priority**: High  
 **User Stories**:  
 1. **Index Documents from Directory**  
@@ -134,7 +130,7 @@ MIT License - See [LICENSE](LICENSE).
 
 ---
 
-#### **Epic 3: Web API**  
+### **Epic 3: Web API**  
 **Priority**: High  
 **User Stories**:  
 1. **Search REST Endpoint**  
@@ -153,7 +149,7 @@ MIT License - See [LICENSE](LICENSE).
 
 ---
 
-#### **Epic 4: Testing & Validation**  
+### **Epic 4: Testing & Validation**  
 **Priority**: High  
 **User Stories**:  
 1. **Unit Tests for Indexing**  
@@ -170,7 +166,7 @@ MIT License - See [LICENSE](LICENSE).
 
 ---
 
-#### **Epic 5: Documentation & Examples**  
+### **Epic 5: Documentation & Examples**  
 **Priority**: Medium  
 **User Stories**:  
 1. **User Guide**  
@@ -184,7 +180,7 @@ MIT License - See [LICENSE](LICENSE).
 
 ---
 
-#### **Epic 6: Performance & Scalability**  
+### **Epic 6: Performance & Scalability**  
 **Priority**: Medium  
 **User Stories**:  
 1. **Benchmark Indexing Speed**  
@@ -197,7 +193,7 @@ MIT License - See [LICENSE](LICENSE).
 
 ---
 
-#### **Epic 7: Future Features**  
+### **Epic 7: Future Features**  
 **Priority**: Low  
 **User Stories**:  
 1. **Real-Time Indexing**  
