@@ -1,6 +1,6 @@
 ﻿
 # DoQuery 🔍  
-**DoQuery for Documents** - A lightweight, educational search engine inspired by Elasticsearch and Lucene  
+**DoQuery** - A lightweight, educational search engine inspired by Elasticsearch and Lucene  
 
 [![.NET](https://img.shields.io/badge/.NET-6.0-blue)](https://dotnet.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
