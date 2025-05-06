@@ -92,13 +92,13 @@ MIT License - See [LICENSE](LICENSE).
 #### **Epic 1: Core Search Engine Functionality**  
 **Priority**: Critical  
 **User Stories**:  
-1. **Implement Inverted Index**  
+1. **Implement Inverted Index**  [Done]
    - _Acceptance Criteria_:  
      - `InvertedIndex` class stores terms with document IDs and positions.  
      - Support adding/removing documents.  
      - Retrieve documents by term efficiently.  
 
-2. **Basic Query Parsing**  
+2. **Basic Query Parsing**  [Done]
    - _Acceptance Criteria_:  
      - `QueryParser` handles simple terms (`"apple"`), phrases (`"red apple"`), and field-specific queries (`title:search`).  
      - Support `AND`/`OR`/`NOT` operators.  
@@ -108,7 +108,7 @@ MIT License - See [LICENSE](LICENSE).
      - `TfIdfScorer` calculates relevance scores.  
      - `SearchResult` orders documents by score.  
 
-4. **Text Analysis Pipeline**  
+4. **Text Analysis Pipeline**  [Done]
    - _Acceptance Criteria_:  
      - Tokenizer splits text into lowercase tokens.  
      - StopWordsFilter removes common words (e.g., "the", "and").  
